@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">考勤统计</string>
+
+    <string name="behavior_sample_title">com.anrongtec.attendencepolice.ui.behavior.SampleTitleBehavior</string>
+    <string name="app_title">河西考勤</string>
+    <string name="net_error">网络异常</string>
+
+</resources>
